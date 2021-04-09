@@ -1,0 +1,12 @@
+{
+  "korbitpublic" : {
+    "label" : {
+      "api": "API",
+      "currency_pair": "currency_pair code"
+    },
+    "desc" : {
+      "api": "ticker,ticker/detailed,ticker/detailed/all,orderbook,transactions,constants",
+      "currency_pair": "(ex. btc_krw, btc_bcc)"
+    }
+  }
+}

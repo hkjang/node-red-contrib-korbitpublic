@@ -1,0 +1,12 @@
+{
+  "korbitpublic" : {
+    "label" : {
+      "api": "API",
+      "currency_pair": "마켓 코드"
+    },
+    "desc" : {
+      "api": "ticker,ticker/detailed,ticker/detailed/all,orderbook,transactions,constants",
+      "currency_pair": "요청할 통화쌍. (ex. btc_krw, btc_bcc)"
+    }
+  }
+}
